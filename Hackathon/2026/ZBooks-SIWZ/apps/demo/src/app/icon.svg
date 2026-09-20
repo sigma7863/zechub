@@ -1,5 +1,1 @@
-<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ZBooks">
-  <rect x="9" y="14" width="46" height="44" rx="11" fill="#c77f0e"/>
-  <rect x="9" y="8" width="46" height="44" rx="11" fill="#f4b728"/>
-  <path d="M20 20H44L20 40H44" stroke="#1a1a1a" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none" aria-label="ZBooks" role="img" viewBox="0 0 64 64"><rect width="46" height="44" x="9" y="14" fill="#c77f0e" rx="11"/><rect width="46" height="44" x="9" y="8" fill="#f4b728" rx="11"/><path stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="6.5" d="M20 20H44L20 40H44"/></svg>
